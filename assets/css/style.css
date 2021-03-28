@@ -97,7 +97,6 @@ footer h2 {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    overflow: auto;
 }
 
 .benefits h3 {
@@ -111,17 +110,7 @@ footer h2 {
     max-width: 150px;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-titles {
     margin-bottom: 32px;
     color: #ffffff;
 }
